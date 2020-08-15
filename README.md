@@ -1,11 +1,13 @@
 ### Hi there 👋
 
+[![Eduardo Lombardi github stats](https://github-readme-stats.vercel.app/api?username=eduardolomb?theme=chartreuse-dark&layout=compact)](https://github.com/eduardolomb/github-readme-stats)
+
+
 <!--
 **eduardolomb/eduardolomb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-Here are some ideas to get you started:
-[![Eduardo Lombardi github stats](https://github-readme-stats.vercel.app/api?username=eduardolomb?theme=chartreuse-dark&layout=compact)](https://github.com/eduardolomb/github-readme-stats)
+
 
 
 - 🔭 I’m currently working on ...
