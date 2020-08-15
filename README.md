@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Eduardo Lombardi github stats](https://github-readme-stats.vercel.app/api?username=eduardolomb?theme=chartreuse-dark&layout=compact)](https://github.com/eduardolomb/github-readme-stats)
+[![Eduardo Lombardi github stats](https://github-readme-stats.vercel.app/api?username=eduardolomb?theme=chartreuse-dark)](https://github.com/eduardolomb/github-readme-stats)
 
 
 <!--
