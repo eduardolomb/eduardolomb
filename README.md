@@ -2,15 +2,14 @@
 
 <p align="left"> I'm a Bachelor in Computer Science, passionate about Technology, music, drones and the Apple ecosystem.</p>
 
-![Eduardo Lombardi github stats](https://github-readme-stats.vercel.app/api?username=eduardolomb&show_icons=true&theme=dark)
-
-
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=eduardolomb&show_icons=true&theme=dark" />
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardolomb&hide=html&layout=compact" />
 
 
 <!--
 **eduardolomb/eduardolomb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
+![Eduardo Lombardi github stats](https://github-readme-stats.vercel.app/api?username=eduardolomb&show_icons=true&theme=dark)
 
 
 
