@@ -4,13 +4,13 @@
 
 
 <p align="left"> I'm a Bachelor in Computer Science, passionate about Technology, music, drones and the Apple ecosystem. Always on dark mode!</p>
-
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=eduardolomb&show_icons=true&theme=dark" />
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardolomb&hide=html&layout=compact&theme=dark" />
 <p align="left"> Follow me on Instagram: http://instagram.com/eduardolomb</p>
 <p align="left"> Subscribe on Youtube: http://bit.ly/youtubedoedu</p>
 <p align="left"> Download on iPad: http://bit.ly/masterq</p>
 <p align="left"> Download on Apple Watch: http://bit.ly/MegaWatchApp</p>
+
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=eduardolomb&show_icons=true&theme=dark" />
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardolomb&hide=html&layout=compact&theme=dark" />
 
 <!--
 **eduardolomb/eduardolomb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
