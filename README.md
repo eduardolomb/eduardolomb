@@ -1,7 +1,7 @@
 
 ### Hey there, Eduardo Lombardi here!
 <div class="text-white bg-gray-dark mb-2">
-<p align="left"> I'm a Bachelor in Computer Science, passionate about Technology, music, drones and the Apple ecosystem.</p>
+<p align="left"> I'm a Bachelor in Computer Science, passionate about Technology, music, drones and the Apple ecosystem. Always dark mode!</p>
 <p align="left"> Follow me on Instagram: http://instagram.com/eduardolomb</p>
 <p align="left"> Subscribe on Youtube: http://bit.ly/youtubedoedu</p>
 <p align="left"> Download on iPad: http://bit.ly/masterq</p>
