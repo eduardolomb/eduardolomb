@@ -1,6 +1,4 @@
 <div class="text-white bg-gray-dark mb-2">
-  .text-white on .bg-gray-dark
-
 ### Hey there, Eduardo Lombardi here!
 
 <p align="left"> I'm a Bachelor in Computer Science, passionate about Technology, music, drones and the Apple ecosystem.</p>
