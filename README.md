@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> I'm a Bachelor in Computer Science, passionate about Technology, music, drones and the Apple ecosystem. Always on dark mode!<br>
+<p align="left"> I'm a Bachelor in Computer Science, passionate about Technology, music, drones and the Apple ecosystem. Always on dark mode!<br><br>
 Follow me on Instagram: http://instagram.com/eduardolomb<br>Subscribe on Youtube: http://bit.ly/youtubedoedu<br>Download on iPad: http://bit.ly/masterq<br>Download on Apple Watch: http://bit.ly/MegaWatchApp</p>
 
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=eduardolomb&show_icons=true&theme=dark" />
